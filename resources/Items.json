@@ -1,0 +1,58 @@
+[
+	{
+        "name": "Scut",
+        "HP": 0,
+        "attack": 0,
+        "specialAttack": 0,
+        "defense": 2,
+        "specialDefense": 2
+    },
+    {
+        "name": "Vesta",
+        "HP": 10,
+        "attack": 3,
+        "specialAttack": 0,
+        "defense": 0,
+        "specialDefense": 0
+    },
+    {
+        "name": "Sabiuta",
+        "HP": 0,
+        "attack": 3,
+        "specialAttack": 0,
+        "defense": 0,
+        "specialDefense": 0
+    },
+    {
+        "name": "Bagheta magica",
+        "HP": 0,
+        "attack": 0,
+        "specialAttack": 3,
+        "defense": 0,
+        "specialDefense": 0
+    },
+    {
+        "name": "Vitamine",
+        "HP": 2,
+        "attack": 2,
+        "specialAttack": 2,
+        "defense": 0,
+        "specialDefense": 0
+    },
+    {
+        "name": "Brad de craciun",
+        "HP": 0,
+        "attack": 3,
+        "specialAttack": 0,
+        "defense": 1,
+        "specialDefense": 0
+    },
+    {
+        "name": "Pelerina",
+        "HP": 0,
+        "attack": 0,
+        "specialAttack": 0,
+        "defense": 0,
+        "specialDefense": 3
+    }
+]
