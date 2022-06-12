@@ -1,0 +1,197 @@
+[
+    {
+        "numeAntrenor": "Bogdan",
+        "varsta": 42,
+        "listaPokemoni":
+        [
+            {
+                "name": "Bulbasaur",
+                "HP": 42,
+                "normalAttack": 0,
+                "specialAttack": 5,
+                "defense": 3,
+                "specialDefense": 1,
+                "ability1": {
+                        "damage": 6,
+                        "stun": "false",
+                        "dodge": "false",
+                        "cooldown": 4
+                    },
+                "ability2": {
+                        "damage": 5,
+                        "stun": "false",
+                        "dodge": "false",
+                        "cooldown": 3
+                    },
+                "items": [
+                    {
+                        "name": "Bagheta magica",
+                        "HP": 0,
+                        "attack": 0,
+                        "specialAttack": 3,
+                        "defense": 0,
+                        "specialDefense": 0
+                    },
+                    {
+                        "name": "Scut",
+                        "HP": 0,
+                        "attack": 0,
+                        "specialAttack": 0,
+                        "defense": 2,
+                        "specialDefense": 2
+                    },
+                    {
+                        "name": "Vesta",
+                        "HP": 10,
+                        "attack": 3,
+                        "specialAttack": 0,
+                        "defense": 0,
+                        "specialDefense": 0
+                    }
+                ]
+            },
+            {
+                "name": "Pikachu",
+                "HP": 35,
+                "normalAttack": 0,
+                "specialAttack": 4,
+                "defense": 2,
+                "specialDefense": 3,
+                "ability1": {
+                        "damage": 6,
+                        "stun": "false",
+                        "dodge": "false",
+                        "cooldown": 4
+                    },
+                "ability2": {
+                        "damage": 4,
+                        "stun": "true",
+                        "dodge": "true",
+                        "cooldown": 5
+                    },
+                "items": [
+                    {
+                        "name": "Sabiuta",
+                        "HP": 0,
+                        "attack": 3,
+                        "specialAttack": 0,
+                        "defense": 0,
+                        "specialDefense": 0
+                    },
+                    {
+                        "name": "Pelerina",
+                        "HP": 0,
+                        "attack": 0,
+                        "specialAttack": 0,
+                        "defense": 0,
+                        "specialDefense": 3
+                    }
+                ]
+            },
+            {
+                "name": "Vulpix",
+                "HP": 36,
+                "normalAttack": 5,
+                "specialAttack": 0,
+                "defense": 2,
+                "specialDefense": 4,
+                "ability1": {
+                        "damage": 8,
+                        "stun": "true",
+                        "dodge": "false",
+                        "cooldown": 6
+                    },
+                "ability2": {
+                        "damage": 2,
+                        "stun": "false",
+                        "dodge": "true",
+                        "cooldown": 7
+                    },
+                "items": [
+                    {
+                        "name": "Vesta",
+                        "HP": 10,
+                        "attack": 3,
+                        "specialAttack": 0,
+                        "defense": 0,
+                        "specialDefense": 0
+                    },
+                    {
+                        "name": "Sabiuta",
+                        "HP": 0,
+                        "attack": 3,
+                        "specialAttack": 0,
+                        "defense": 0,
+                        "specialDefense": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "numeAntrenor": "Tudor",
+        "varsta": 52,
+        "listaPokemoni": [
+            {
+                "name": "Squirtle",
+                "HP": 60,
+                "normalAttack": 0,
+                "specialAttack": 3,
+                "defense": 5,
+                "specialDefense": 5,
+                "ability1": {
+                        "damage": 4,
+                        "stun": "false",
+                        "dodge": "false",
+                        "cooldown": 3
+                    },
+                "ability2": {
+                        "damage": 2,
+                        "stun": "true",
+                        "dodge": "false",
+                        "cooldown": 2
+                    }
+            },
+            {
+                "name": "Eevee",
+                "HP": 39,
+                "normalAttack": 0,
+                "specialAttack": 4,
+                "defense": 3,
+                "specialDefense": 3,
+                "ability1": {
+                        "damage": 5,
+                        "stun": "false",
+                        "dodge": "false",
+                        "cooldown": 3
+                    },
+                "ability2": {
+                        "damage": 3,
+                        "stun": "true",
+                        "dodge": "false",
+                        "cooldown": 3
+                    }
+            },
+            {
+                "name": "Bulbasaur",
+                "HP": 42,
+                "normalAttack": 0,
+                "specialAttack": 5,
+                "defense": 3,
+                "specialDefense": 1,
+                "ability1": {
+                        "damage": 6,
+                        "stun": "false",
+                        "dodge": "false",
+                        "cooldown": 4
+                    },
+                "ability2": {
+                        "damage": 5,
+                        "stun": "false",
+                        "dodge": "false",
+                        "cooldown": 3
+                    }
+            }
+        ]
+    }
+]

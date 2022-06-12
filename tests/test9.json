@@ -1,0 +1,212 @@
+[
+    {
+        "numeAntrenor": "Victor",
+        "varsta": 25,
+        "listaPokemoni":
+        [
+            {
+                "name": "Psyduck",
+                "HP": 43,
+                "normalAttack": 3,
+                "specialAttack": 0,
+                "defense": 3,
+                "specialDefense": 3,
+                "ability1": {
+                        "damage": 2,
+                        "stun": "false",
+                        "dodge": "false",
+                        "cooldown": 4
+                    },
+                "ability2": {
+                        "damage": 2,
+                        "stun": "true",
+                        "dodge": "false",
+                        "cooldown": 5
+                    },
+                "items": [
+                    {
+                        "name": "Vitamine",
+                        "HP": 2,
+                        "attack": 2,
+                        "specialAttack": 2,
+                        "defense": 0,
+                        "specialDefense": 0
+                    }
+                ]
+            },
+            {
+                "name": "Snorlax",
+                "HP": 62,
+                "normalAttack": 3,
+                "specialAttack": 0,
+                "defense": 6,
+                "specialDefense": 4,
+                "ability1": {
+                        "damage": 4,
+                        "stun": "true",
+                        "dodge": "false",
+                        "cooldown": 5
+                    },
+                "ability2": {
+                        "damage": 0,
+                        "stun": "false",
+                        "dodge": "true",
+                        "cooldown": 5
+                    },
+                "items": [
+                    {
+                        "name": "Scut",
+                        "HP": 0,
+                        "attack": 0,
+                        "specialAttack": 0,
+                        "defense": 2,
+                        "specialDefense": 2
+                    },
+                    {
+                        "name": "Pelerina",
+                        "HP": 0,
+                        "attack": 0,
+                        "specialAttack": 0,
+                        "defense": 0,
+                        "specialDefense": 3
+                    }
+                ]
+            },
+            {
+                "name": "Meowth",
+                "HP": 41,
+                "normalAttack": 3,
+                "specialAttack": 0,
+                "defense": 4,
+                "specialDefense": 2,
+                "ability1": {
+                        "damage": 5,
+                        "stun": "false",
+                        "dodge": "true",
+                        "cooldown": 4
+                    },
+                "ability2": {
+                        "damage": 1,
+                        "stun": "false",
+                        "dodge": "true",
+                        "cooldown": 3
+                    },
+                "items": [
+
+                ]
+            }
+        ]
+    },
+    {
+        "numeAntrenor": "Stefan",
+        "varsta": 28,
+        "listaPokemoni": [
+            {
+                "name": "Vulpix",
+                "HP": 36,
+                "normalAttack": 5,
+                "specialAttack": 0,
+                "defense": 2,
+                "specialDefense": 4,
+                "ability1": {
+                        "damage": 8,
+                        "stun": "true",
+                        "dodge": "false",
+                        "cooldown": 6
+                    },
+                "ability2": {
+                        "damage": 2,
+                        "stun": "false",
+                        "dodge": "true",
+                        "cooldown": 7
+                    },
+                "items": [
+                    {
+                        "name": "Vesta",
+                        "HP": 10,
+                        "attack": 3,
+                        "specialAttack": 0,
+                        "defense": 0,
+                        "specialDefense": 0
+                    }
+                ]
+            },
+            {
+                "name": "Charmander",
+                "HP": 50,
+                "normalAttack": 4,
+                "specialAttack": 0,
+                "defense": 3,
+                "specialDefense": 2,
+                "ability1": {
+                        "damage": 4,
+                        "stun": "true",
+                        "dodge": "false",
+                        "cooldown": 4
+                    },
+                "ability2": {
+                        "damage": 7,
+                        "stun": "false",
+                        "dodge": "false",
+                        "cooldown": 6
+                    },
+                "items": [
+                    {
+                        "name": "Brad de craciun",
+                        "HP": 0,
+                        "attack": 3,
+                        "specialAttack": 0,
+                        "defense": 1,
+                        "specialDefense": 0
+                    },
+                    {
+                        "name": "Vesta",
+                        "HP": 10,
+                        "attack": 3,
+                        "specialAttack": 0,
+                        "defense": 0,
+                        "specialDefense": 0
+                    }
+                ]
+            },
+            {
+                "name": "Squirtle",
+                "HP": 60,
+                "normalAttack": 0,
+                "specialAttack": 3,
+                "defense": 5,
+                "specialDefense": 5,
+                "ability1": {
+                        "damage": 4,
+                        "stun": "false",
+                        "dodge": "false",
+                        "cooldown": 3
+                    },
+                "ability2": {
+                        "damage": 2,
+                        "stun": "true",
+                        "dodge": "false",
+                        "cooldown": 2
+                    },
+                "items": [
+                    {
+                        "name": "Vitamine",
+                        "HP": 2,
+                        "attack": 2,
+                        "specialAttack": 2,
+                        "defense": 0,
+                        "specialDefense": 0
+                    },
+                    {
+                        "name": "Brad de craciun",
+                        "HP": 0,
+                        "attack": 3,
+                        "specialAttack": 0,
+                        "defense": 1,
+                        "specialDefense": 0
+                    }
+                ]
+            }
+        ]
+    }
+]
